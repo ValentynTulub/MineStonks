@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "xxx",
+    "x x",
+    "xxx"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "tag": "logs"
+    }
+  },
+  "result":
+  {
+    "item": "chest",
+    "count": 4
+  }
+}
